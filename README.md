@@ -1,13 +1,35 @@
-# Shahidah Mustappa 👋
+<div align="center">
+
+# Shahidah Mustappa 👋 <img src="https://komarev.com/ghpvc/?username=shamustappa&label=Profile%20Views&color=blueviolet&style=plastic" alt="shamustappa" align="center" />
+
 🎓 Architecture Graduate | Computational Designer | Data Science Enthusiast
 
+</div>
+
+---
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
 ## 📊 Projects Development Progress
+
 - **UNO River Tree Modular Eco Hub**: 60%  
   ![60%](https://progress-bar.dev/60)
 - **NANSHA Interactive Musical Swing Bamboo Pavilion**: 50%  
   ![50%](https://progress-bar.dev/50)
 - **Algo-Layout Rhino3D Plugin**: 30%  
   ![30%](https://progress-bar.dev/30)
+
+    </td>
+    <td valign="top" width="45%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamustappa&theme=dark" alt="GitHub Streaks" />
+
+  </tr>
+</table>
+
+---
 
 ## 💻 Skills
 
@@ -21,7 +43,20 @@
 
 **Soft Skills** ![Initiative](https://img.shields.io/badge/-Initiative-blue) ![Resilience](https://img.shields.io/badge/-Resilience-green) ![Learning Agility](https://img.shields.io/badge/-Learning%20Agility-yellow) ![Adaptability](https://img.shields.io/badge/-Adaptability-orange) ![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-red) ![Time Management](https://img.shields.io/badge/-Time%20Management-purple)
 
+---
+
+<div align="left">
+
+<!-- GitHub Stats and Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=shamustappa&show_icons=true&theme=dracula" alt="GitHub Stats" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamustappa&langs_count=8&layout=compact&theme=dracula" alt="Top Languages" width="30%" />
+
+</div>
+
+---
+
 ## 📬 Contact Me
+
 - 📧 [Email](mailto:shamustappa@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shamustappa)
 - 🎨 [Portfolio](https://shamustappa.com)
