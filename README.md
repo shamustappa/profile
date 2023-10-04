@@ -14,6 +14,8 @@
 
 ## 📊 Projects Development Progress
 
+- **HealStruct: Intelligent Self-Healing Infrastructure**: 40%  
+  ![40%](https://progress-bar.dev/40)
 - **UNO River Tree Modular Eco Hub**: 60%  
   ![60%](https://progress-bar.dev/60)
 - **NANSHA Interactive Musical Swing Bamboo Pavilion**: 50%  
